@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: University Of The basque country
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Unai Elordi Hidalgo earned his degree in Computer Systems Engineering and Computer Science at the Mondragón University (MGEP) in 2010. In 2016, he completed a master’s in computational engineering and intelligent systems (KISA) at the University of the Basque Country (UPV/EHU). In 2023, he obtained his PhD in Computer Science from the Artificial Intelligence Department at UPV/EHU. From 2010 to 2024, he worked as a researcher at Vicomtech, focusing on various fields such as computer vision and artificial intelligence for intelligent video analytics. He is currently an Assistant Professor at the University of the Basque Country (UPV/EHU). He has published more than 15 articles in international scientific journals and conference proceedings.
